@@ -1,0 +1,21 @@
+
+.center{
+display:block;
+margin-right:auto;
+margin-left:auto;
+
+}
+img{
+  width: 100%;
+}
+body {
+  height: 1440vh;
+  margin: 0;
+  background: radial-gradient(#c33bd9, #9c82f2, #dec0f1);
+  background-repeat: no-repeat;
+}
+main{
+  display:block;
+  margin:auto;
+  width:500px;
+}
