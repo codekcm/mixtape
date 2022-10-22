@@ -1,19 +1,39 @@
 
+
 .center{
 display:block;
 margin-right:auto;
 margin-left:auto;
-
 }
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #957FEF;
+  color: white;
+  font-size: 10px;
+}
+
+
+
 img{
   width: 100%;
 }
 body {
   height: 1440vh;
-  margin: 0;
+  margin:0%;
   background: radial-gradient(#c33bd9, #9c82f2, #dec0f1);
   background-repeat: no-repeat;
+  color:white;
+  font-family:tahoma;
 }
+  div.transbox {
+  background-color:#957FEF;
+  width: 100%;
+  padding: 50px;
+  margin: 20px;
+  opacity:0.5;
+
 main{
   display:block;
   margin:auto;
