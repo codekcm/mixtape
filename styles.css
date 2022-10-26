@@ -7,14 +7,13 @@ margin-right:auto;
 margin-left:auto;
 }
 
-.header {
+.header{
   padding: 20px;
   text-align: center;
   background: #957FEF;
   color: white;
   font-size: 10px;
 }
-
 
 
 img{
@@ -27,13 +26,18 @@ body {
   background-repeat: no-repeat;
   color:white;
   font-family:tahoma;
+
 }
 
-h1{
-  text-line
+h1,h2
+{
+  text-align: center;
+}
+
 a{
     color: white;
     text-decoration: none;
+
 }
 a:hover{
     color: pink;
@@ -46,13 +50,20 @@ a:visited{
 ol{
     font-size: 1.3em;
     line-height: 1.5em;
+
 }
 li{
     margin-left: 15px;
+
+    span{
+      
+    }
+
 }
 
+
 div.transbox {
-  background-color:rgba(149, 127, 239, 0.4);
+  background-color:rgba(149, 127, 239, 0.5);
   width: 70%;
   padding: 50px;
   margin: 20px;
